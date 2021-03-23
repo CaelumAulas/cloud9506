@@ -25,3 +25,11 @@ alefh.sousa@caelum.com.br
 - https://microservices.io/patterns/decomposition/decompose-by-business-capability.html
 
 
+# Aula 2 - Referências
+
+- https://files.gotocon.com/uploads/slides/conference_16/1127/original/Monolith%20Decompositon%20Patterns%20v2%20-%2045mins.pdf
+- https://www.youtube.com/watch?v=9I9GdSQ1bbM
+- https://en.wikipedia.org/wiki/Strangler_fig#/media/File:Strangler_fig_inside.jpg
+- https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/
+- https://www.nginx.com/products/nginx-ingress-controller/
+- https://www.envoyproxy.io
