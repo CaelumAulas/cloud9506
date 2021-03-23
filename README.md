@@ -33,3 +33,16 @@ alefh.sousa@caelum.com.br
 - https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/
 - https://www.nginx.com/products/nginx-ingress-controller/
 - https://www.envoyproxy.io
+- https://www.youtube.com/watch?v=5OjqD-ow8GE
+- https://c4model.com/
+- http://chadfowler.com/2006/12/27/the-big-rewrite.html
+- https://martinfowler.com/bliki/StranglerFigApplication.html
+- https://12factor.net/pt_br/config
+- https://istio.io/
+- https://en.wikipedia.org/wiki/Conway%27s_law
+- https://developers.redhat.com/books/-migrating-microservice-databases-relational-monolith-distributed-data
+- https://microservices.io/patterns/data/shared-database.html
+- https://microservices.io/patterns/data/database-per-service.html
+- https://undertow.io/ & https://netty.io/ & https://javadeveloperzone.com/spring-boot/spring-boot-configure-undertow-server/
+- https://en.wikipedia.org/wiki/Single_source_of_truth
+- https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/
