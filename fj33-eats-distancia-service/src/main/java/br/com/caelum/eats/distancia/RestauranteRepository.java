@@ -10,4 +10,6 @@ interface RestauranteRepository extends MongoRepository<Restaurante, Long> {
 
 	Page<Restaurante> findAll(Pageable limit);
 
+	Page<Restaurante> findAllByAprovado(boolean aprovado, Pageable limit);
+
 }
