@@ -1,10 +1,11 @@
 package br.com.caelum.eats.distancia;
 
+import org.springframework.data.annotation.Id;
+import org.springframework.data.mongodb.core.mapping.Document;
+
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import org.springframework.data.annotation.Id;
-import org.springframework.data.mongodb.core.mapping.Document;
 
 @Document(collection = "restaurantes")
 @Data
@@ -16,6 +17,7 @@ public class Restaurante {
 	private Long id;
 
 	private String cep;
+
 	private Long tipoDeCozinhaId;
 
 }
