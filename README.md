@@ -46,3 +46,24 @@ alefh.sousa@caelum.com.br
 - https://undertow.io/ & https://netty.io/ & https://javadeveloperzone.com/spring-boot/spring-boot-configure-undertow-server/
 - https://en.wikipedia.org/wiki/Single_source_of_truth
 - https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/
+
+
+
+# Aula 3 - Referências
+
+- https://airflow.apache.org/
+- https://12factor.net/dependencies
+- https://flywaydb.org/
+- https://www.liquibase.org/
+- https://graphql.org/
+- https://httpstatuses.com/
+- https://geemus.gitbooks.io/http-api-design/content/en/index.html
+- https://martinfowler.com/articles/richardsonMaturityModel.html
+- https://github.com/OpenFeign/feign
+- https://spring.io/projects/spring-cloud
+- https://spring.io/blog/2014/06/03/introducing-spring-cloud
+- https://www.amazon.com/Refactoring-Databases-Evolutionary-paperback-Addison-Wesley/dp/0321774515
+- https://hipsters.tech/estrategias-de-migracao-de-dados-no-elo7-hipsters-on-the-road-07/
+- https://microservices.io/patterns/data/transaction-log-tailing.html
+- https://debezium.io/docs/architecture/
+
