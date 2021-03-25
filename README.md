@@ -66,4 +66,31 @@ alefh.sousa@caelum.com.br
 - https://hipsters.tech/estrategias-de-migracao-de-dados-no-elo7-hipsters-on-the-road-07/
 - https://microservices.io/patterns/data/transaction-log-tailing.html
 - https://debezium.io/docs/architecture/
+- https://grpc.io/
+- https://www.youtube.com/watch?v=r8gOKuWgNvw
+- https://hpbn.co/
+- https://www.casadocodigo.com.br/products/livro-desconstruindo-web
 
+
+# Aula 4 - referências
+
+- https://microservices.io/patterns/data/api-composition.html
+- https://netflixtechblog.com/optimizing-the-netflix-api-5c9ac715cf19
+- https://netflixtechblog.com/engineering-trade-offs-and-the-netflix-api-re-architecture-64f122b277dd
+- https://vertx.io/
+- https://github.com/ReactiveX/RxJava
+- https://br.vuejs.org/v2/cookbook/using-axios-to-consume-apis.html
+- https://doc.traefik.io/traefik/
+- https://landscape.cncf.io/category=service-proxy&format=card-mode&grouping=category
+- https://landscape.cncf.io/category=api-gateway&format=card-mode&grouping=category
+- https://www.cncf.io/
+- https://docs.nginx.com/nginx/admin-guide/web-server/reverse-proxy/
+- https://www.nginx.com/blog/api-real-time-test-latency-responsiveness-nginx-rtapi-tool/
+- https://httpstatuses.com/
+- https://www.google.com/url?sa=i&url=https%3A%2F%2Fdoc.traefik.io%2Ftraefik%2F&psig=AOvVaw1d5EQ8g7NuWnbaDurDukqX&ust=1616720252483000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNCFkLWeyu8CFQAAAAAdAAAAABAD
+- https://doc.traefik.io/traefik/
+- https://docs.nginx.com/nginx/admin-guide/web-server/reverse-proxy/
+- https://microservices.io/patterns/apigateway.html
+- https://spring.io/projects/spring-cloud-gateway
+- https://www.akamai.com/br/pt/
+- https://www.cloudflare.com/pt-br
