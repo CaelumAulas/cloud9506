@@ -94,3 +94,93 @@ alefh.sousa@caelum.com.br
 - https://spring.io/projects/spring-cloud-gateway
 - https://www.akamai.com/br/pt/
 - https://www.cloudflare.com/pt-br
+
+
+# Aula 5 - referências
+
+- https://pt.wikipedia.org/wiki/Round-robin#:~:text=Round%2Drobin%20(RR)%20%C3%A9,e%20de%20rede%2C%20em%20computa%C3%A7%C3%A3o.
+- https://www.nexsoftsys.com/articles/spring-cloud-netflix-ribbon.html
+- https://spring.io/guides/gs/spring-cloud-loadbalancer/
+- https://cloud.spring.io/spring-cloud-netflix/multi/multi_spring-cloud-ribbon.html
+- https://miro.medium.com/max/3590/0*gAtm7Jtxqf4TudVZ.png
+- https://www.yld.io/blog/service-meshin-with-istio/
+- https://istio.io/latest/docs/setup/install/operator/
+- https://www.envoyproxy.io/
+- https://kubernetes.io/docs/concepts/overview/components/
+- https://linkerd.io/
+- https://kubernetes.io/docs/concepts/workloads/controllers/deployment/
+- https://www.consul.io/
+- https://chromium.googlesource.com/external/github.com/grpc/grpc/+/HEAD/CONCEPTS.md
+
+
+
+
+# Aula 6 - Referências
+
+- https://cloud.spring.io/spring-cloud-netflix/multi/multi_spring-cloud-feign.html
+- https://landscape.cncf.io/category=coordination-service-discovery&format=card-mode&grouping=category
+- https://www.consul.io/
+- https://sdkman.io/
+- https://aws.amazon.com/message/11201/
+- https://sre.google/workbook/table-of-contents/
+- https://miro.medium.com/max/3022/1*yp2_sLoiC_gWHICPzMKL8A.png
+- https://d33wubrfki0l68.cloudfront.net/2475489eaf20163ec0f54ddc1d92aa8d4c87c96b/e7c81/images/docs/components-of-kubernetes.svg
+- https://istio.io/latest/docs/setup/getting-started/
+- https://github.com/envoyproxy/envoy
+- https://cloud.google.com/istio
+- https://cloud.google.com/anthos?hl=pt-br
+- https://helm.sh/
+- https://rancher.com/docs/os/v1.x/en/
+- https://linkerd.io/
+- https://reinvent.awsevents.com/
+- https://thenewstack.io/the-cloud-native-landscape-the-provisioning-layer-explained/
+
+
+# Aula 7 Referências:
+
+- https://openliberty.io/guides/bulkhead.html#background-concepts
+- https://en.wikipedia.org/wiki/Jitter
+- https://netflixtechblog.com/hystrix-dashboard-turbine-stream-aggregator-60985a2e51df
+- https://github.com/resilience4j/resilience4j
+- https://github.com/Netflix/Hystrix
+- https://principlesofchaos.org/
+- https://microservices.io/patterns/data/domain-event.html
+- https://microservices.io/patterns/reliability/circuit-breaker.html 
+- https://pragprog.com/book/mnee2/release-it-second-edition
+- https://www.nngroup.com/articles/response-times-3-important-limits/
+- http://cs-www.cs.yale.edu/homes/dna/papers/abadi-pacelc.pdf
+- https://microservices.io/patterns/client-side-discovery.html
+- https://microservices.io/patterns/server-side-discovery.html
+- https://microservices.io/patterns/service-registry.html
+- https://microservices.io/patterns/self-registration.html
+- https://microservices.io/patterns/3rd-party-registration.html
+- https://github.com/Netflix/Prana
+- https://mesosphere.github.io/marathon/
+- https://www.consul.io/
+- https://www.hashicorp.com/
+- https://spring.io/projects/spring-cloud-consul
+- https://spring.io/projects/spring-cloud-netflix
+- https://github.com/Netflix/eureka/wiki
+- https://www.ibm.com/support/knowledgecenter/pt-br/SSWLGF_8.5.0/com.ibm.srdoc/cwsr_overview_features17.html
+- http://tryrabbitmq.com/
+
+
+
+# Aula 8 - Referências
+
+- https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf
+- https://www.enterpriseintegrationpatterns.com/
+- https://www.enterpriseintegrationpatterns.com/patterns/messaging/
+- https://zeromq.org/
+- https://docs.nats.io/
+- https://martinfowler.com/bliki/CQRS.htmlf
+- https://www.youtube.com/watch?v=I3uH3iiiDqY
+- https://microservices.io/patterns/data/cqrs.html
+- https://microservices.io/patterns/data/event-sourcing.html
+- https://akka.io/
+- https://twitter.github.io/finagle/
+- https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/
+- https://www.amazon.com.br/Domain-Driven-Design-Distilled-English-Vaughn-ebook/dp/B01JJSGE5S
+- https://www.amazon.com.br/Implementing-Domain-Driven-Design-English-Vaughn-ebook/dp/B00BCLEBN8/ref=pd_sbs_351_1/147-4789231-2523351?_encoding=UTF8&pd_rd_i=B00BCLEBN8&pd_rd_r=c347584a-d2fc-4613-a54f-b9d55e653122&pd_rd_w=UAoBg&pd_rd_wg=gX6za&pf_rd_p=dba274c4-9919-41b0-a2f8-76fb24466c03&pf_rd_r=M7RVRQVWSR8DBEH7VWKT&psc=1&refRID=M7RVRQVWSR8DBEH7VWKT
+- https://www.amazon.com.br/Domain-Driven-Design-Tackling-Complexity-Software-ebook/dp/B00794TAUG/ref=pd_sbs_351_2/147-4789231-2523351?_encoding=UTF8&pd_rd_i=B00794TAUG&pd_rd_r=ca99aa98-8b31-40ac-a384-1975074aa3b4&pd_rd_w=9Jf55&pd_rd_wg=JAfyo&pf_rd_p=dba274c4-9919-41b0-a2f8-76fb24466c03&pf_rd_r=Z9YSKBX1QZ5HHHRJR4T6&psc=1&refRID=Z9YSKBX1QZ5HHHRJR4T6
+
